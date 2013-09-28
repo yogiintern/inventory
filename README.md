@@ -1,0 +1,4 @@
+inventory
+=========
+
+ruby basic inventory
