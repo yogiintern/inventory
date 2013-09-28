@@ -11,4 +11,8 @@ class Item
 			puts "In sufficient stocks"
 		end
 	end
+
+	def place_order(qty)
+		@qty = @qty+qty
+	end
 end
